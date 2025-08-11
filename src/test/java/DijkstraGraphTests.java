@@ -1,3 +1,6 @@
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+
 public class DijkstraGraphTests {
     /**
    * The dijkstraGraphTest1 method tests the shortest path from node "A" to node "E" using

@@ -1,3 +1,6 @@
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+
 public class HashtableMapTests {
     /**
    * The putAndGetTest() method tests the put() and get() methods of Hashtable Map. It tests the
