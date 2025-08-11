@@ -1,8 +1,6 @@
 import java.util.NoSuchElementException;
 import java.util.List;
 import java.util.LinkedList;
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
 
 public class HashtableMap <KeyType, ValueType> implements MapADT <KeyType, ValueType> {
 
